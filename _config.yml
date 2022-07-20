@@ -5,3 +5,5 @@ plugins:
 title: Cyberme0w's Digital Home
 description: A digital collection of bits and pieces of my adventure into the digital realm.
 
+
+theme: jekyll-theme-minimal
